@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MaGiKzDEV
 - 👀 I’m interested in lua, html, css, js
-- 🌱 I’m currently learning lua (RageUI, OX)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working in lua
 - 😄 Pronouns: Him
 - ⚡ Fun fact: ...
 
